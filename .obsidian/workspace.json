@@ -1,0 +1,163 @@
+{
+  "main": {
+    "id": "8073461e6f9ec48e",
+    "type": "split",
+    "children": [
+      {
+        "id": "44a477ca9afd6a98",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e810db7acc4d1439",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Java/Java IO概述.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "109d5e17d27cab22",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "File/Pasted image 20221111161825.png"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3752418c7a550266",
+    "type": "split",
+    "children": [
+      {
+        "id": "57c00e2d5c8399ed",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f4efe0e09fc7310f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a2ae2f9d6532f394",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8dbb1fb8400832d3",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "8330f8257c42477e",
+    "type": "split",
+    "children": [
+      {
+        "id": "7fd3bb7f31d3b523",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cfd6992a45965677",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Java/Java IO概述.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "69cd5f92d21f2c73",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Java/Java IO概述.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2f61f9aa56cc4a30",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "a52620de90c39dbb",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Java/Java IO概述.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "e810db7acc4d1439",
+  "lastOpenFiles": [
+    "File/Pasted image 20221111161825.png",
+    "Java/Java IO概述.md",
+    "File/Pasted image 20221111161314.png",
+    "File/Pasted image 20221111161258.png",
+    "Java/Java IO 教程（翻译）.md",
+    "算法/简单公式.md",
+    "Java/基础知识.md",
+    "Redis/Redis设计与实现.md",
+    "2022-11-01.md",
+    "Mysql/基础知识.md"
+  ]
+}
